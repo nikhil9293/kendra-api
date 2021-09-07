@@ -1,0 +1,1 @@
+web: gunicorn kendra_api.wsgi

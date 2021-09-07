@@ -1,0 +1,443 @@
+[
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 1,
+        "fields": {
+            "From": "2021-09-04T23:30Z",
+            "To": "2021-09-05T00:00Z",
+            "Intensity": "84"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 2,
+        "fields": {
+            "From": "2021-09-05T00:00Z",
+            "To": "2021-09-05T00:30Z",
+            "Intensity": "85"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 3,
+        "fields": {
+            "From": "2021-09-05T00:30Z",
+            "To": "2021-09-05T01:00Z",
+            "Intensity": "88"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 4,
+        "fields": {
+            "From": "2021-09-05T01:00Z",
+            "To": "2021-09-05T01:30Z",
+            "Intensity": "88"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 5,
+        "fields": {
+            "From": "2021-09-05T01:30Z",
+            "To": "2021-09-05T02:00Z",
+            "Intensity": "87"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 6,
+        "fields": {
+            "From": "2021-09-05T02:00Z",
+            "To": "2021-09-05T02:30Z",
+            "Intensity": "85"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 7,
+        "fields": {
+            "From": "2021-09-05T02:30Z",
+            "To": "2021-09-05T03:00Z",
+            "Intensity": "86"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 8,
+        "fields": {
+            "From": "2021-09-05T03:00Z",
+            "To": "2021-09-05T03:30Z",
+            "Intensity": "84"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 9,
+        "fields": {
+            "From": "2021-09-05T03:30Z",
+            "To": "2021-09-05T04:00Z",
+            "Intensity": "83"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 10,
+        "fields": {
+            "From": "2021-09-05T04:00Z",
+            "To": "2021-09-05T04:30Z",
+            "Intensity": "83"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 11,
+        "fields": {
+            "From": "2021-09-05T04:30Z",
+            "To": "2021-09-05T05:00Z",
+            "Intensity": "78"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 12,
+        "fields": {
+            "From": "2021-09-05T05:00Z",
+            "To": "2021-09-05T05:30Z",
+            "Intensity": "78"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 13,
+        "fields": {
+            "From": "2021-09-05T05:30Z",
+            "To": "2021-09-05T06:00Z",
+            "Intensity": "78"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 14,
+        "fields": {
+            "From": "2021-09-05T06:00Z",
+            "To": "2021-09-05T06:30Z",
+            "Intensity": "76"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 15,
+        "fields": {
+            "From": "2021-09-05T06:30Z",
+            "To": "2021-09-05T07:00Z",
+            "Intensity": "78"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 16,
+        "fields": {
+            "From": "2021-09-05T07:00Z",
+            "To": "2021-09-05T07:30Z",
+            "Intensity": "87"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 17,
+        "fields": {
+            "From": "2021-09-05T07:30Z",
+            "To": "2021-09-05T08:00Z",
+            "Intensity": "89"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 18,
+        "fields": {
+            "From": "2021-09-05T08:00Z",
+            "To": "2021-09-05T08:30Z",
+            "Intensity": "86"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 19,
+        "fields": {
+            "From": "2021-09-05T08:30Z",
+            "To": "2021-09-05T09:00Z",
+            "Intensity": "85"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 20,
+        "fields": {
+            "From": "2021-09-05T09:00Z",
+            "To": "2021-09-05T09:30Z",
+            "Intensity": "85"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 21,
+        "fields": {
+            "From": "2021-09-05T09:30Z",
+            "To": "2021-09-05T10:00Z",
+            "Intensity": "83"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 22,
+        "fields": {
+            "From": "2021-09-05T10:00Z",
+            "To": "2021-09-05T10:30Z",
+            "Intensity": "80"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 23,
+        "fields": {
+            "From": "2021-09-05T10:30Z",
+            "To": "2021-09-05T11:00Z",
+            "Intensity": "77"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 24,
+        "fields": {
+            "From": "2021-09-05T11:00Z",
+            "To": "2021-09-05T11:30Z",
+            "Intensity": "76"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 25,
+        "fields": {
+            "From": "2021-09-05T11:30Z",
+            "To": "2021-09-05T12:00Z",
+            "Intensity": "74"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 26,
+        "fields": {
+            "From": "2021-09-05T12:00Z",
+            "To": "2021-09-05T12:30Z",
+            "Intensity": "69"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 27,
+        "fields": {
+            "From": "2021-09-05T12:30Z",
+            "To": "2021-09-05T13:00Z",
+            "Intensity": "62"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 28,
+        "fields": {
+            "From": "2021-09-05T13:00Z",
+            "To": "2021-09-05T13:30Z",
+            "Intensity": "55"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 29,
+        "fields": {
+            "From": "2021-09-05T13:30Z",
+            "To": "2021-09-05T14:00Z",
+            "Intensity": "54"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 30,
+        "fields": {
+            "From": "2021-09-05T14:00Z",
+            "To": "2021-09-05T14:30Z",
+            "Intensity": "58"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 31,
+        "fields": {
+            "From": "2021-09-05T14:30Z",
+            "To": "2021-09-05T15:00Z",
+            "Intensity": "76"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 32,
+        "fields": {
+            "From": "2021-09-05T15:00Z",
+            "To": "2021-09-05T15:30Z",
+            "Intensity": "90"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 33,
+        "fields": {
+            "From": "2021-09-05T15:30Z",
+            "To": "2021-09-05T16:00Z",
+            "Intensity": "92"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 34,
+        "fields": {
+            "From": "2021-09-05T16:00Z",
+            "To": "2021-09-05T16:30Z",
+            "Intensity": "98"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 35,
+        "fields": {
+            "From": "2021-09-05T16:30Z",
+            "To": "2021-09-05T17:00Z",
+            "Intensity": "101"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 36,
+        "fields": {
+            "From": "2021-09-05T17:00Z",
+            "To": "2021-09-05T17:30Z",
+            "Intensity": "107"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 37,
+        "fields": {
+            "From": "2021-09-05T17:30Z",
+            "To": "2021-09-05T18:00Z",
+            "Intensity": "110"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 38,
+        "fields": {
+            "From": "2021-09-05T18:00Z",
+            "To": "2021-09-05T18:30Z",
+            "Intensity": "111"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 39,
+        "fields": {
+            "From": "2021-09-05T18:30Z",
+            "To": "2021-09-05T19:00Z",
+            "Intensity": "113"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 40,
+        "fields": {
+            "From": "2021-09-05T19:00Z",
+            "To": "2021-09-05T19:30Z",
+            "Intensity": "117"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 41,
+        "fields": {
+            "From": "2021-09-05T19:30Z",
+            "To": "2021-09-05T20:00Z",
+            "Intensity": "114"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 42,
+        "fields": {
+            "From": "2021-09-05T20:00Z",
+            "To": "2021-09-05T20:30Z",
+            "Intensity": "107"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 43,
+        "fields": {
+            "From": "2021-09-05T20:30Z",
+            "To": "2021-09-05T21:00Z",
+            "Intensity": "110"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 44,
+        "fields": {
+            "From": "2021-09-05T21:00Z",
+            "To": "2021-09-05T21:30Z",
+            "Intensity": "111"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 45,
+        "fields": {
+            "From": "2021-09-05T21:30Z",
+            "To": "2021-09-05T22:00Z",
+            "Intensity": "103"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 46,
+        "fields": {
+            "From": "2021-09-05T22:00Z",
+            "To": "2021-09-05T22:30Z",
+            "Intensity": "109"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 47,
+        "fields": {
+            "From": "2021-09-05T22:30Z",
+            "To": "2021-09-05T23:00Z",
+            "Intensity": "113"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 48,
+        "fields": {
+            "From": "2021-09-05T23:00Z",
+            "To": "2021-09-05T23:30Z",
+            "Intensity": "112"
+        }
+    },
+    {
+        "model": "carbon_intensity.Intensity",
+        "id": 49,
+        "fields": {
+            "From": "2021-09-05T23:30Z",
+            "To": "2021-09-06T00:00Z",
+            "Intensity": "110"
+        }
+    }
+]

@@ -1,0 +1,7 @@
+from rest_framework_json_api import serializers
+from demand_elexon.models import Demand
+
+class DemandSerializer(serializers.HyperlinkedModelSerializer):
+    class Meta:
+        model = Demand
+        fields = ('Date', 'Time', 'Demand')
