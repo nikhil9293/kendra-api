@@ -10,6 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
+import django_heroku
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -33,13 +34,6 @@ ALLOWED_HOSTS = ['*']
 INSTALLED_APPS = [
     'carbon_intensity.apps.CarbonIntensityConfig',
     'demand_elexon.apps.DemandElexonConfig',
-    # 'freq_elexon.apps.FreqElexonConfig',
-    # 'fuel_elexon.apps.FuelElexonConfig',
-    # 'price_elexon.apps.PriceElexonConfig',
-    # 'solar.apps.SolarConfig',
-    # 'transmit_elexon.apps.TransmitElexonConfig',
-    # 'wind_offshore.apps.WindOffshoreConfig',
-    # 'wind_onshore.apps.WindOnshoreConfig',
     'rest_framework',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -165,3 +159,5 @@ REST_FRAMEWORK = {
     ),
     'TEST_REQUEST_DEFAULT_FORMAT': 'vnd.api+json'
 }
+
+django_heroku.settings(locals())
