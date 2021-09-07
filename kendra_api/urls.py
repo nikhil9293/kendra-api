@@ -20,8 +20,8 @@ from carbon_intensity import views as carbon_views
 from demand_elexon import views as demand_views
 
 router = routers.DefaultRouter()
-router.register(r'api/intensity', carbon_views.IntensityViewSet)
-router.register(r'api/demand', demand_views.DemandViewSet)
+router.register(r'intensity', carbon_views.IntensityViewSet)
+router.register(r'demand', demand_views.DemandViewSet)
 
 
 
