@@ -1,5 +1,5 @@
 from rest_framework_json_api import serializers
-from carbon_intensity.models import Intensity
+from .models import Intensity
 
 class IntensitySerializer(serializers.HyperlinkedModelSerializer):
     class Meta:

@@ -8,6 +8,7 @@ intensityRouter.register(r'intensity', views.IntensityViewSet)
 app_name = 'carbon_intensity'
 urlpatterns = [
     path('', include(intensityRouter.urls)),
+    path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
 ]
 
 

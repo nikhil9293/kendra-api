@@ -1,5 +1,5 @@
 from rest_framework_json_api import serializers
-from demand_elexon.models import Demand
+from .models import Demand
 
 class DemandSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
