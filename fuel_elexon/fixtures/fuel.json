@@ -1,0 +1,3159 @@
+[
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "1",
+        "fields": {
+            "Date": "2021-09-07 13:00:00",
+            "GasTurbine": "16146.0",
+            "Coal": "502.0",
+            "Nuclear": "4909.0",
+            "Hydro": "99.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "2",
+        "fields": {
+            "Date": "2021-09-07 13:05:00",
+            "GasTurbine": "16158.0",
+            "Coal": "484.0",
+            "Nuclear": "4913.0",
+            "Hydro": "74.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "3",
+        "fields": {
+            "Date": "2021-09-07 13:10:00",
+            "GasTurbine": "16130.0",
+            "Coal": "476.0",
+            "Nuclear": "4912.0",
+            "Hydro": "74.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "4",
+        "fields": {
+            "Date": "2021-09-07 13:15:00",
+            "GasTurbine": "16106.0",
+            "Coal": "480.0",
+            "Nuclear": "4913.0",
+            "Hydro": "74.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "5",
+        "fields": {
+            "Date": "2021-09-07 13:20:00",
+            "GasTurbine": "16152.0",
+            "Coal": "486.0",
+            "Nuclear": "4914.0",
+            "Hydro": "74.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "6",
+        "fields": {
+            "Date": "2021-09-07 13:25:00",
+            "GasTurbine": "16137.0",
+            "Coal": "487.0",
+            "Nuclear": "4913.0",
+            "Hydro": "74.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "7",
+        "fields": {
+            "Date": "2021-09-07 13:30:00",
+            "GasTurbine": "15989.0",
+            "Coal": "476.0",
+            "Nuclear": "4922.0",
+            "Hydro": "101.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "8",
+        "fields": {
+            "Date": "2021-09-07 13:35:00",
+            "GasTurbine": "15978.0",
+            "Coal": "488.0",
+            "Nuclear": "4923.0",
+            "Hydro": "217.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "9",
+        "fields": {
+            "Date": "2021-09-07 13:40:00",
+            "GasTurbine": "15981.0",
+            "Coal": "485.0",
+            "Nuclear": "4919.0",
+            "Hydro": "231.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "10",
+        "fields": {
+            "Date": "2021-09-07 13:45:00",
+            "GasTurbine": "16004.0",
+            "Coal": "486.0",
+            "Nuclear": "4915.0",
+            "Hydro": "232.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "11",
+        "fields": {
+            "Date": "2021-09-07 13:50:00",
+            "GasTurbine": "15930.0",
+            "Coal": "478.0",
+            "Nuclear": "4929.0",
+            "Hydro": "237.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "12",
+        "fields": {
+            "Date": "2021-09-07 13:55:00",
+            "GasTurbine": "15828.0",
+            "Coal": "456.0",
+            "Nuclear": "4929.0",
+            "Hydro": "249.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "13",
+        "fields": {
+            "Date": "2021-09-07 14:00:00",
+            "GasTurbine": "15755.0",
+            "Coal": "458.0",
+            "Nuclear": "4926.0",
+            "Hydro": "258.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "14",
+        "fields": {
+            "Date": "2021-09-07 14:05:00",
+            "GasTurbine": "15906.0",
+            "Coal": "497.0",
+            "Nuclear": "4927.0",
+            "Hydro": "279.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "15",
+        "fields": {
+            "Date": "2021-09-07 14:10:00",
+            "GasTurbine": "15985.0",
+            "Coal": "560.0",
+            "Nuclear": "4933.0",
+            "Hydro": "279.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "16",
+        "fields": {
+            "Date": "2021-09-07 14:15:00",
+            "GasTurbine": "16034.0",
+            "Coal": "628.0",
+            "Nuclear": "4934.0",
+            "Hydro": "280.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "17",
+        "fields": {
+            "Date": "2021-09-07 14:20:00",
+            "GasTurbine": "16008.0",
+            "Coal": "645.0",
+            "Nuclear": "4934.0",
+            "Hydro": "281.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "18",
+        "fields": {
+            "Date": "2021-09-07 14:25:00",
+            "GasTurbine": "16044.0",
+            "Coal": "651.0",
+            "Nuclear": "4937.0",
+            "Hydro": "280.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "19",
+        "fields": {
+            "Date": "2021-09-07 14:30:00",
+            "GasTurbine": "16042.0",
+            "Coal": "636.0",
+            "Nuclear": "4936.0",
+            "Hydro": "286.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "20",
+        "fields": {
+            "Date": "2021-09-07 14:35:00",
+            "GasTurbine": "16115.0",
+            "Coal": "586.0",
+            "Nuclear": "4937.0",
+            "Hydro": "298.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "21",
+        "fields": {
+            "Date": "2021-09-07 14:40:00",
+            "GasTurbine": "16204.0",
+            "Coal": "565.0",
+            "Nuclear": "4941.0",
+            "Hydro": "299.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "22",
+        "fields": {
+            "Date": "2021-09-07 14:45:00",
+            "GasTurbine": "16266.0",
+            "Coal": "546.0",
+            "Nuclear": "4944.0",
+            "Hydro": "299.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "23",
+        "fields": {
+            "Date": "2021-09-07 14:50:00",
+            "GasTurbine": "16373.0",
+            "Coal": "510.0",
+            "Nuclear": "4948.0",
+            "Hydro": "299.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "24",
+        "fields": {
+            "Date": "2021-09-07 14:55:00",
+            "GasTurbine": "16396.0",
+            "Coal": "495.0",
+            "Nuclear": "4943.0",
+            "Hydro": "298.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "25",
+        "fields": {
+            "Date": "2021-09-07 15:00:00",
+            "GasTurbine": "16421.0",
+            "Coal": "475.0",
+            "Nuclear": "4944.0",
+            "Hydro": "332.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "26",
+        "fields": {
+            "Date": "2021-09-07 15:05:00",
+            "GasTurbine": "16552.0",
+            "Coal": "467.0",
+            "Nuclear": "4944.0",
+            "Hydro": "353.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "27",
+        "fields": {
+            "Date": "2021-09-07 15:10:00",
+            "GasTurbine": "16476.0",
+            "Coal": "455.0",
+            "Nuclear": "4962.0",
+            "Hydro": "355.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "28",
+        "fields": {
+            "Date": "2021-09-07 15:15:00",
+            "GasTurbine": "16509.0",
+            "Coal": "462.0",
+            "Nuclear": "4970.0",
+            "Hydro": "355.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "29",
+        "fields": {
+            "Date": "2021-09-07 15:20:00",
+            "GasTurbine": "16594.0",
+            "Coal": "468.0",
+            "Nuclear": "4970.0",
+            "Hydro": "357.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "30",
+        "fields": {
+            "Date": "2021-09-07 15:25:00",
+            "GasTurbine": "16524.0",
+            "Coal": "469.0",
+            "Nuclear": "4969.0",
+            "Hydro": "358.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "31",
+        "fields": {
+            "Date": "2021-09-07 15:30:00",
+            "GasTurbine": "16547.0",
+            "Coal": "475.0",
+            "Nuclear": "4980.0",
+            "Hydro": "382.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "32",
+        "fields": {
+            "Date": "2021-09-07 15:35:00",
+            "GasTurbine": "16444.0",
+            "Coal": "470.0",
+            "Nuclear": "4985.0",
+            "Hydro": "444.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "33",
+        "fields": {
+            "Date": "2021-09-07 15:40:00",
+            "GasTurbine": "16494.0",
+            "Coal": "470.0",
+            "Nuclear": "4985.0",
+            "Hydro": "491.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "34",
+        "fields": {
+            "Date": "2021-09-07 15:45:00",
+            "GasTurbine": "16617.0",
+            "Coal": "488.0",
+            "Nuclear": "4982.0",
+            "Hydro": "496.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "35",
+        "fields": {
+            "Date": "2021-09-07 15:50:00",
+            "GasTurbine": "16715.0",
+            "Coal": "478.0",
+            "Nuclear": "4980.0",
+            "Hydro": "501.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "36",
+        "fields": {
+            "Date": "2021-09-07 15:55:00",
+            "GasTurbine": "16819.0",
+            "Coal": "460.0",
+            "Nuclear": "4987.0",
+            "Hydro": "528.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "37",
+        "fields": {
+            "Date": "2021-09-07 16:00:00",
+            "GasTurbine": "16858.0",
+            "Coal": "459.0",
+            "Nuclear": "4991.0",
+            "Hydro": "598.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "38",
+        "fields": {
+            "Date": "2021-09-07 16:05:00",
+            "GasTurbine": "16918.0",
+            "Coal": "461.0",
+            "Nuclear": "4991.0",
+            "Hydro": "637.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "39",
+        "fields": {
+            "Date": "2021-09-07 16:10:00",
+            "GasTurbine": "16924.0",
+            "Coal": "457.0",
+            "Nuclear": "4989.0",
+            "Hydro": "641.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "40",
+        "fields": {
+            "Date": "2021-09-07 16:15:00",
+            "GasTurbine": "16974.0",
+            "Coal": "461.0",
+            "Nuclear": "4992.0",
+            "Hydro": "641.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "41",
+        "fields": {
+            "Date": "2021-09-07 16:20:00",
+            "GasTurbine": "17029.0",
+            "Coal": "470.0",
+            "Nuclear": "4997.0",
+            "Hydro": "642.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "42",
+        "fields": {
+            "Date": "2021-09-07 16:25:00",
+            "GasTurbine": "17057.0",
+            "Coal": "472.0",
+            "Nuclear": "4996.0",
+            "Hydro": "642.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "43",
+        "fields": {
+            "Date": "2021-09-07 16:30:00",
+            "GasTurbine": "17069.0",
+            "Coal": "473.0",
+            "Nuclear": "4995.0",
+            "Hydro": "642.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "44",
+        "fields": {
+            "Date": "2021-09-07 16:35:00",
+            "GasTurbine": "17081.0",
+            "Coal": "474.0",
+            "Nuclear": "4996.0",
+            "Hydro": "642.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "45",
+        "fields": {
+            "Date": "2021-09-07 16:40:00",
+            "GasTurbine": "17016.0",
+            "Coal": "480.0",
+            "Nuclear": "5009.0",
+            "Hydro": "641.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "46",
+        "fields": {
+            "Date": "2021-09-07 16:45:00",
+            "GasTurbine": "16988.0",
+            "Coal": "491.0",
+            "Nuclear": "5013.0",
+            "Hydro": "641.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "47",
+        "fields": {
+            "Date": "2021-09-07 16:50:00",
+            "GasTurbine": "16965.0",
+            "Coal": "553.0",
+            "Nuclear": "5015.0",
+            "Hydro": "639.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "48",
+        "fields": {
+            "Date": "2021-09-07 16:55:00",
+            "GasTurbine": "16881.0",
+            "Coal": "600.0",
+            "Nuclear": "5020.0",
+            "Hydro": "641.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "49",
+        "fields": {
+            "Date": "2021-09-07 17:00:00",
+            "GasTurbine": "16910.0",
+            "Coal": "635.0",
+            "Nuclear": "5036.0",
+            "Hydro": "656.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "50",
+        "fields": {
+            "Date": "2021-09-07 17:05:00",
+            "GasTurbine": "16887.0",
+            "Coal": "640.0",
+            "Nuclear": "5032.0",
+            "Hydro": "672.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "51",
+        "fields": {
+            "Date": "2021-09-07 17:10:00",
+            "GasTurbine": "16867.0",
+            "Coal": "632.0",
+            "Nuclear": "5030.0",
+            "Hydro": "691.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "52",
+        "fields": {
+            "Date": "2021-09-07 17:15:00",
+            "GasTurbine": "16852.0",
+            "Coal": "629.0",
+            "Nuclear": "5036.0",
+            "Hydro": "698.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "53",
+        "fields": {
+            "Date": "2021-09-07 17:20:00",
+            "GasTurbine": "16869.0",
+            "Coal": "631.0",
+            "Nuclear": "5035.0",
+            "Hydro": "698.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "54",
+        "fields": {
+            "Date": "2021-09-07 17:25:00",
+            "GasTurbine": "16880.0",
+            "Coal": "632.0",
+            "Nuclear": "5029.0",
+            "Hydro": "699.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "55",
+        "fields": {
+            "Date": "2021-09-07 17:30:00",
+            "GasTurbine": "16847.0",
+            "Coal": "634.0",
+            "Nuclear": "5036.0",
+            "Hydro": "702.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "56",
+        "fields": {
+            "Date": "2021-09-07 17:35:00",
+            "GasTurbine": "16883.0",
+            "Coal": "664.0",
+            "Nuclear": "5039.0",
+            "Hydro": "704.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "57",
+        "fields": {
+            "Date": "2021-09-07 17:40:00",
+            "GasTurbine": "16832.0",
+            "Coal": "641.0",
+            "Nuclear": "5036.0",
+            "Hydro": "704.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "58",
+        "fields": {
+            "Date": "2021-09-07 17:45:00",
+            "GasTurbine": "16858.0",
+            "Coal": "594.0",
+            "Nuclear": "5040.0",
+            "Hydro": "619.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "59",
+        "fields": {
+            "Date": "2021-09-07 17:50:00",
+            "GasTurbine": "16917.0",
+            "Coal": "538.0",
+            "Nuclear": "5036.0",
+            "Hydro": "547.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "60",
+        "fields": {
+            "Date": "2021-09-07 17:55:00",
+            "GasTurbine": "16808.0",
+            "Coal": "471.0",
+            "Nuclear": "5031.0",
+            "Hydro": "546.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "61",
+        "fields": {
+            "Date": "2021-09-07 18:00:00",
+            "GasTurbine": "16693.0",
+            "Coal": "457.0",
+            "Nuclear": "5034.0",
+            "Hydro": "547.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "62",
+        "fields": {
+            "Date": "2021-09-07 18:05:00",
+            "GasTurbine": "16596.0",
+            "Coal": "456.0",
+            "Nuclear": "5043.0",
+            "Hydro": "530.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "63",
+        "fields": {
+            "Date": "2021-09-07 18:10:00",
+            "GasTurbine": "16633.0",
+            "Coal": "457.0",
+            "Nuclear": "5040.0",
+            "Hydro": "510.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "64",
+        "fields": {
+            "Date": "2021-09-07 18:15:00",
+            "GasTurbine": "16547.0",
+            "Coal": "457.0",
+            "Nuclear": "5040.0",
+            "Hydro": "510.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "65",
+        "fields": {
+            "Date": "2021-09-07 18:20:00",
+            "GasTurbine": "16449.0",
+            "Coal": "460.0",
+            "Nuclear": "5043.0",
+            "Hydro": "510.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "66",
+        "fields": {
+            "Date": "2021-09-07 18:25:00",
+            "GasTurbine": "16313.0",
+            "Coal": "460.0",
+            "Nuclear": "5046.0",
+            "Hydro": "510.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "67",
+        "fields": {
+            "Date": "2021-09-07 18:30:00",
+            "GasTurbine": "16265.0",
+            "Coal": "471.0",
+            "Nuclear": "5040.0",
+            "Hydro": "511.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "68",
+        "fields": {
+            "Date": "2021-09-07 18:35:00",
+            "GasTurbine": "16219.0",
+            "Coal": "472.0",
+            "Nuclear": "5037.0",
+            "Hydro": "508.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "69",
+        "fields": {
+            "Date": "2021-09-07 18:40:00",
+            "GasTurbine": "16147.0",
+            "Coal": "460.0",
+            "Nuclear": "5036.0",
+            "Hydro": "497.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "70",
+        "fields": {
+            "Date": "2021-09-07 18:45:00",
+            "GasTurbine": "16117.0",
+            "Coal": "458.0",
+            "Nuclear": "5039.0",
+            "Hydro": "506.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "71",
+        "fields": {
+            "Date": "2021-09-07 18:50:00",
+            "GasTurbine": "16026.0",
+            "Coal": "459.0",
+            "Nuclear": "5040.0",
+            "Hydro": "583.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "72",
+        "fields": {
+            "Date": "2021-09-07 18:55:00",
+            "GasTurbine": "16161.0",
+            "Coal": "400.0",
+            "Nuclear": "5044.0",
+            "Hydro": "582.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "73",
+        "fields": {
+            "Date": "2021-09-07 19:00:00",
+            "GasTurbine": "16230.0",
+            "Coal": "259.0",
+            "Nuclear": "5046.0",
+            "Hydro": "570.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "74",
+        "fields": {
+            "Date": "2021-09-07 19:05:00",
+            "GasTurbine": "16234.0",
+            "Coal": "227.0",
+            "Nuclear": "5045.0",
+            "Hydro": "474.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "75",
+        "fields": {
+            "Date": "2021-09-07 19:10:00",
+            "GasTurbine": "16246.0",
+            "Coal": "230.0",
+            "Nuclear": "5049.0",
+            "Hydro": "466.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "76",
+        "fields": {
+            "Date": "2021-09-07 19:15:00",
+            "GasTurbine": "16329.0",
+            "Coal": "230.0",
+            "Nuclear": "5057.0",
+            "Hydro": "460.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "77",
+        "fields": {
+            "Date": "2021-09-07 19:20:00",
+            "GasTurbine": "16245.0",
+            "Coal": "231.0",
+            "Nuclear": "5060.0",
+            "Hydro": "453.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "78",
+        "fields": {
+            "Date": "2021-09-07 19:25:00",
+            "GasTurbine": "16314.0",
+            "Coal": "230.0",
+            "Nuclear": "5051.0",
+            "Hydro": "446.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "79",
+        "fields": {
+            "Date": "2021-09-07 19:30:00",
+            "GasTurbine": "16450.0",
+            "Coal": "229.0",
+            "Nuclear": "5053.0",
+            "Hydro": "442.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "80",
+        "fields": {
+            "Date": "2021-09-07 19:35:00",
+            "GasTurbine": "16553.0",
+            "Coal": "234.0",
+            "Nuclear": "5063.0",
+            "Hydro": "425.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "81",
+        "fields": {
+            "Date": "2021-09-07 19:40:00",
+            "GasTurbine": "16365.0",
+            "Coal": "234.0",
+            "Nuclear": "5062.0",
+            "Hydro": "433.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "82",
+        "fields": {
+            "Date": "2021-09-07 19:45:00",
+            "GasTurbine": "16197.0",
+            "Coal": "249.0",
+            "Nuclear": "5055.0",
+            "Hydro": "482.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "83",
+        "fields": {
+            "Date": "2021-09-07 19:50:00",
+            "GasTurbine": "16100.0",
+            "Coal": "159.0",
+            "Nuclear": "5054.0",
+            "Hydro": "486.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "84",
+        "fields": {
+            "Date": "2021-09-07 19:55:00",
+            "GasTurbine": "16061.0",
+            "Coal": "7.0",
+            "Nuclear": "5060.0",
+            "Hydro": "480.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "85",
+        "fields": {
+            "Date": "2021-09-07 20:00:00",
+            "GasTurbine": "15998.0",
+            "Coal": "0.0",
+            "Nuclear": "5063.0",
+            "Hydro": "438.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "86",
+        "fields": {
+            "Date": "2021-09-07 20:05:00",
+            "GasTurbine": "16060.0",
+            "Coal": "0.0",
+            "Nuclear": "5058.0",
+            "Hydro": "338.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "87",
+        "fields": {
+            "Date": "2021-09-07 20:10:00",
+            "GasTurbine": "15909.0",
+            "Coal": "0.0",
+            "Nuclear": "5056.0",
+            "Hydro": "301.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "88",
+        "fields": {
+            "Date": "2021-09-07 20:15:00",
+            "GasTurbine": "15757.0",
+            "Coal": "0.0",
+            "Nuclear": "5057.0",
+            "Hydro": "294.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "89",
+        "fields": {
+            "Date": "2021-09-07 20:20:00",
+            "GasTurbine": "15626.0",
+            "Coal": "0.0",
+            "Nuclear": "5070.0",
+            "Hydro": "194.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "90",
+        "fields": {
+            "Date": "2021-09-07 20:25:00",
+            "GasTurbine": "15394.0",
+            "Coal": "0.0",
+            "Nuclear": "5067.0",
+            "Hydro": "157.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "91",
+        "fields": {
+            "Date": "2021-09-07 20:30:00",
+            "GasTurbine": "15250.0",
+            "Coal": "0.0",
+            "Nuclear": "5057.0",
+            "Hydro": "150.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "92",
+        "fields": {
+            "Date": "2021-09-07 20:35:00",
+            "GasTurbine": "15310.0",
+            "Coal": "0.0",
+            "Nuclear": "5064.0",
+            "Hydro": "132.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "93",
+        "fields": {
+            "Date": "2021-09-07 20:40:00",
+            "GasTurbine": "15375.0",
+            "Coal": "0.0",
+            "Nuclear": "5076.0",
+            "Hydro": "132.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "94",
+        "fields": {
+            "Date": "2021-09-07 20:45:00",
+            "GasTurbine": "15397.0",
+            "Coal": "0.0",
+            "Nuclear": "5076.0",
+            "Hydro": "131.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "95",
+        "fields": {
+            "Date": "2021-09-07 20:50:00",
+            "GasTurbine": "15291.0",
+            "Coal": "0.0",
+            "Nuclear": "5071.0",
+            "Hydro": "131.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "96",
+        "fields": {
+            "Date": "2021-09-07 20:55:00",
+            "GasTurbine": "15074.0",
+            "Coal": "0.0",
+            "Nuclear": "5073.0",
+            "Hydro": "128.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "97",
+        "fields": {
+            "Date": "2021-09-07 21:00:00",
+            "GasTurbine": "14756.0",
+            "Coal": "0.0",
+            "Nuclear": "5082.0",
+            "Hydro": "127.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "98",
+        "fields": {
+            "Date": "2021-09-07 21:05:00",
+            "GasTurbine": "14778.0",
+            "Coal": "0.0",
+            "Nuclear": "5089.0",
+            "Hydro": "293.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "99",
+        "fields": {
+            "Date": "2021-09-07 21:10:00",
+            "GasTurbine": "14697.0",
+            "Coal": "0.0",
+            "Nuclear": "5108.0",
+            "Hydro": "283.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "100",
+        "fields": {
+            "Date": "2021-09-07 21:15:00",
+            "GasTurbine": "14149.0",
+            "Coal": "0.0",
+            "Nuclear": "5109.0",
+            "Hydro": "284.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "101",
+        "fields": {
+            "Date": "2021-09-07 21:20:00",
+            "GasTurbine": "13984.0",
+            "Coal": "0.0",
+            "Nuclear": "5115.0",
+            "Hydro": "285.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "102",
+        "fields": {
+            "Date": "2021-09-07 21:25:00",
+            "GasTurbine": "13902.0",
+            "Coal": "0.0",
+            "Nuclear": "5117.0",
+            "Hydro": "285.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "103",
+        "fields": {
+            "Date": "2021-09-07 21:30:00",
+            "GasTurbine": "13626.0",
+            "Coal": "0.0",
+            "Nuclear": "5122.0",
+            "Hydro": "285.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "104",
+        "fields": {
+            "Date": "2021-09-07 21:35:00",
+            "GasTurbine": "13465.0",
+            "Coal": "0.0",
+            "Nuclear": "5128.0",
+            "Hydro": "285.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "105",
+        "fields": {
+            "Date": "2021-09-07 21:40:00",
+            "GasTurbine": "13262.0",
+            "Coal": "0.0",
+            "Nuclear": "5154.0",
+            "Hydro": "285.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "106",
+        "fields": {
+            "Date": "2021-09-07 21:45:00",
+            "GasTurbine": "13098.0",
+            "Coal": "0.0",
+            "Nuclear": "5163.0",
+            "Hydro": "285.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "107",
+        "fields": {
+            "Date": "2021-09-07 21:50:00",
+            "GasTurbine": "12939.0",
+            "Coal": "0.0",
+            "Nuclear": "5163.0",
+            "Hydro": "285.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "108",
+        "fields": {
+            "Date": "2021-09-07 21:55:00",
+            "GasTurbine": "12728.0",
+            "Coal": "0.0",
+            "Nuclear": "5165.0",
+            "Hydro": "285.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "109",
+        "fields": {
+            "Date": "2021-09-07 22:00:00",
+            "GasTurbine": "12538.0",
+            "Coal": "0.0",
+            "Nuclear": "5175.0",
+            "Hydro": "280.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "110",
+        "fields": {
+            "Date": "2021-09-07 22:05:00",
+            "GasTurbine": "12512.0",
+            "Coal": "0.0",
+            "Nuclear": "5180.0",
+            "Hydro": "266.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "111",
+        "fields": {
+            "Date": "2021-09-07 22:10:00",
+            "GasTurbine": "12279.0",
+            "Coal": "0.0",
+            "Nuclear": "5184.0",
+            "Hydro": "270.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "112",
+        "fields": {
+            "Date": "2021-09-07 22:15:00",
+            "GasTurbine": "12052.0",
+            "Coal": "0.0",
+            "Nuclear": "5185.0",
+            "Hydro": "270.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "113",
+        "fields": {
+            "Date": "2021-09-07 22:20:00",
+            "GasTurbine": "11888.0",
+            "Coal": "0.0",
+            "Nuclear": "5191.0",
+            "Hydro": "270.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "114",
+        "fields": {
+            "Date": "2021-09-07 22:25:00",
+            "GasTurbine": "11703.0",
+            "Coal": "0.0",
+            "Nuclear": "5196.0",
+            "Hydro": "270.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "115",
+        "fields": {
+            "Date": "2021-09-07 22:30:00",
+            "GasTurbine": "11476.0",
+            "Coal": "0.0",
+            "Nuclear": "5197.0",
+            "Hydro": "270.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "116",
+        "fields": {
+            "Date": "2021-09-07 22:35:00",
+            "GasTurbine": "11341.0",
+            "Coal": "0.0",
+            "Nuclear": "5198.0",
+            "Hydro": "269.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "117",
+        "fields": {
+            "Date": "2021-09-07 22:40:00",
+            "GasTurbine": "11164.0",
+            "Coal": "0.0",
+            "Nuclear": "5202.0",
+            "Hydro": "269.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "118",
+        "fields": {
+            "Date": "2021-09-07 22:45:00",
+            "GasTurbine": "10899.0",
+            "Coal": "0.0",
+            "Nuclear": "5205.0",
+            "Hydro": "269.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "119",
+        "fields": {
+            "Date": "2021-09-07 22:50:00",
+            "GasTurbine": "10663.0",
+            "Coal": "0.0",
+            "Nuclear": "5201.0",
+            "Hydro": "268.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "120",
+        "fields": {
+            "Date": "2021-09-07 22:55:00",
+            "GasTurbine": "10446.0",
+            "Coal": "0.0",
+            "Nuclear": "5201.0",
+            "Hydro": "267.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "121",
+        "fields": {
+            "Date": "2021-09-07 23:00:00",
+            "GasTurbine": "10273.0",
+            "Coal": "0.0",
+            "Nuclear": "5201.0",
+            "Hydro": "265.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "122",
+        "fields": {
+            "Date": "2021-09-07 23:05:00",
+            "GasTurbine": "10282.0",
+            "Coal": "0.0",
+            "Nuclear": "5205.0",
+            "Hydro": "241.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "123",
+        "fields": {
+            "Date": "2021-09-07 23:10:00",
+            "GasTurbine": "10198.0",
+            "Coal": "0.0",
+            "Nuclear": "5207.0",
+            "Hydro": "233.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "124",
+        "fields": {
+            "Date": "2021-09-07 23:15:00",
+            "GasTurbine": "10136.0",
+            "Coal": "0.0",
+            "Nuclear": "5209.0",
+            "Hydro": "234.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "125",
+        "fields": {
+            "Date": "2021-09-07 23:20:00",
+            "GasTurbine": "10125.0",
+            "Coal": "0.0",
+            "Nuclear": "5213.0",
+            "Hydro": "234.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "126",
+        "fields": {
+            "Date": "2021-09-07 23:25:00",
+            "GasTurbine": "10207.0",
+            "Coal": "0.0",
+            "Nuclear": "5217.0",
+            "Hydro": "234.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "127",
+        "fields": {
+            "Date": "2021-09-07 23:30:00",
+            "GasTurbine": "10125.0",
+            "Coal": "0.0",
+            "Nuclear": "5215.0",
+            "Hydro": "234.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "128",
+        "fields": {
+            "Date": "2021-09-07 23:35:00",
+            "GasTurbine": "10126.0",
+            "Coal": "0.0",
+            "Nuclear": "5214.0",
+            "Hydro": "234.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "129",
+        "fields": {
+            "Date": "2021-09-07 23:40:00",
+            "GasTurbine": "10056.0",
+            "Coal": "0.0",
+            "Nuclear": "5214.0",
+            "Hydro": "234.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "130",
+        "fields": {
+            "Date": "2021-09-07 23:45:00",
+            "GasTurbine": "9842.0",
+            "Coal": "0.0",
+            "Nuclear": "5220.0",
+            "Hydro": "234.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "131",
+        "fields": {
+            "Date": "2021-09-07 23:50:00",
+            "GasTurbine": "9677.0",
+            "Coal": "0.0",
+            "Nuclear": "5221.0",
+            "Hydro": "234.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "132",
+        "fields": {
+            "Date": "2021-09-07 23:55:00",
+            "GasTurbine": "9622.0",
+            "Coal": "0.0",
+            "Nuclear": "5217.0",
+            "Hydro": "233.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "133",
+        "fields": {
+            "Date": "2021-09-08 00:00:00",
+            "GasTurbine": "9524.0",
+            "Coal": "0.0",
+            "Nuclear": "5217.0",
+            "Hydro": "232.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "134",
+        "fields": {
+            "Date": "2021-09-08 00:05:00",
+            "GasTurbine": "9591.0",
+            "Coal": "0.0",
+            "Nuclear": "5223.0",
+            "Hydro": "232.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "135",
+        "fields": {
+            "Date": "2021-09-08 00:10:00",
+            "GasTurbine": "9596.0",
+            "Coal": "0.0",
+            "Nuclear": "5224.0",
+            "Hydro": "232.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "136",
+        "fields": {
+            "Date": "2021-09-08 00:15:00",
+            "GasTurbine": "9559.0",
+            "Coal": "0.0",
+            "Nuclear": "5223.0",
+            "Hydro": "232.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "137",
+        "fields": {
+            "Date": "2021-09-08 00:20:00",
+            "GasTurbine": "9510.0",
+            "Coal": "0.0",
+            "Nuclear": "5224.0",
+            "Hydro": "232.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "138",
+        "fields": {
+            "Date": "2021-09-08 00:25:00",
+            "GasTurbine": "9450.0",
+            "Coal": "0.0",
+            "Nuclear": "5224.0",
+            "Hydro": "232.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "139",
+        "fields": {
+            "Date": "2021-09-08 00:30:00",
+            "GasTurbine": "9412.0",
+            "Coal": "0.0",
+            "Nuclear": "5224.0",
+            "Hydro": "231.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "140",
+        "fields": {
+            "Date": "2021-09-08 00:35:00",
+            "GasTurbine": "9285.0",
+            "Coal": "0.0",
+            "Nuclear": "5225.0",
+            "Hydro": "231.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "141",
+        "fields": {
+            "Date": "2021-09-08 00:40:00",
+            "GasTurbine": "9354.0",
+            "Coal": "0.0",
+            "Nuclear": "5224.0",
+            "Hydro": "232.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "142",
+        "fields": {
+            "Date": "2021-09-08 00:45:00",
+            "GasTurbine": "9412.0",
+            "Coal": "0.0",
+            "Nuclear": "5228.0",
+            "Hydro": "232.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "143",
+        "fields": {
+            "Date": "2021-09-08 00:50:00",
+            "GasTurbine": "9403.0",
+            "Coal": "0.0",
+            "Nuclear": "5232.0",
+            "Hydro": "232.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "144",
+        "fields": {
+            "Date": "2021-09-08 00:55:00",
+            "GasTurbine": "9376.0",
+            "Coal": "0.0",
+            "Nuclear": "5229.0",
+            "Hydro": "231.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "145",
+        "fields": {
+            "Date": "2021-09-08 01:00:00",
+            "GasTurbine": "9373.0",
+            "Coal": "0.0",
+            "Nuclear": "5232.0",
+            "Hydro": "231.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "146",
+        "fields": {
+            "Date": "2021-09-08 01:05:00",
+            "GasTurbine": "9605.0",
+            "Coal": "0.0",
+            "Nuclear": "5234.0",
+            "Hydro": "231.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "147",
+        "fields": {
+            "Date": "2021-09-08 01:10:00",
+            "GasTurbine": "9748.0",
+            "Coal": "0.0",
+            "Nuclear": "5232.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "148",
+        "fields": {
+            "Date": "2021-09-08 01:15:00",
+            "GasTurbine": "9701.0",
+            "Coal": "0.0",
+            "Nuclear": "5233.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "149",
+        "fields": {
+            "Date": "2021-09-08 01:20:00",
+            "GasTurbine": "9761.0",
+            "Coal": "0.0",
+            "Nuclear": "5230.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "150",
+        "fields": {
+            "Date": "2021-09-08 01:25:00",
+            "GasTurbine": "9736.0",
+            "Coal": "0.0",
+            "Nuclear": "5226.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "151",
+        "fields": {
+            "Date": "2021-09-08 01:30:00",
+            "GasTurbine": "9725.0",
+            "Coal": "0.0",
+            "Nuclear": "5227.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "152",
+        "fields": {
+            "Date": "2021-09-08 01:35:00",
+            "GasTurbine": "9717.0",
+            "Coal": "0.0",
+            "Nuclear": "5234.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "153",
+        "fields": {
+            "Date": "2021-09-08 01:40:00",
+            "GasTurbine": "9687.0",
+            "Coal": "0.0",
+            "Nuclear": "5229.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "154",
+        "fields": {
+            "Date": "2021-09-08 01:45:00",
+            "GasTurbine": "9681.0",
+            "Coal": "0.0",
+            "Nuclear": "5229.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "155",
+        "fields": {
+            "Date": "2021-09-08 01:50:00",
+            "GasTurbine": "9627.0",
+            "Coal": "0.0",
+            "Nuclear": "5229.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "156",
+        "fields": {
+            "Date": "2021-09-08 01:55:00",
+            "GasTurbine": "9626.0",
+            "Coal": "0.0",
+            "Nuclear": "5231.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "157",
+        "fields": {
+            "Date": "2021-09-08 02:00:00",
+            "GasTurbine": "9523.0",
+            "Coal": "0.0",
+            "Nuclear": "5228.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "158",
+        "fields": {
+            "Date": "2021-09-08 02:05:00",
+            "GasTurbine": "9447.0",
+            "Coal": "0.0",
+            "Nuclear": "5229.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "159",
+        "fields": {
+            "Date": "2021-09-08 02:10:00",
+            "GasTurbine": "9627.0",
+            "Coal": "0.0",
+            "Nuclear": "5226.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "160",
+        "fields": {
+            "Date": "2021-09-08 02:15:00",
+            "GasTurbine": "9624.0",
+            "Coal": "0.0",
+            "Nuclear": "5228.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "161",
+        "fields": {
+            "Date": "2021-09-08 02:20:00",
+            "GasTurbine": "9601.0",
+            "Coal": "0.0",
+            "Nuclear": "5229.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "162",
+        "fields": {
+            "Date": "2021-09-08 02:25:00",
+            "GasTurbine": "9623.0",
+            "Coal": "0.0",
+            "Nuclear": "5228.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "163",
+        "fields": {
+            "Date": "2021-09-08 02:30:00",
+            "GasTurbine": "9625.0",
+            "Coal": "0.0",
+            "Nuclear": "5230.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "164",
+        "fields": {
+            "Date": "2021-09-08 02:35:00",
+            "GasTurbine": "9662.0",
+            "Coal": "0.0",
+            "Nuclear": "5229.0",
+            "Hydro": "214.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "165",
+        "fields": {
+            "Date": "2021-09-08 02:40:00",
+            "GasTurbine": "9685.0",
+            "Coal": "0.0",
+            "Nuclear": "5225.0",
+            "Hydro": "215.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "166",
+        "fields": {
+            "Date": "2021-09-08 02:45:00",
+            "GasTurbine": "9730.0",
+            "Coal": "0.0",
+            "Nuclear": "5224.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "167",
+        "fields": {
+            "Date": "2021-09-08 02:50:00",
+            "GasTurbine": "9684.0",
+            "Coal": "0.0",
+            "Nuclear": "5232.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "168",
+        "fields": {
+            "Date": "2021-09-08 02:55:00",
+            "GasTurbine": "9734.0",
+            "Coal": "0.0",
+            "Nuclear": "5229.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "169",
+        "fields": {
+            "Date": "2021-09-08 03:00:00",
+            "GasTurbine": "9740.0",
+            "Coal": "0.0",
+            "Nuclear": "5225.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "170",
+        "fields": {
+            "Date": "2021-09-08 03:05:00",
+            "GasTurbine": "9732.0",
+            "Coal": "0.0",
+            "Nuclear": "5223.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "171",
+        "fields": {
+            "Date": "2021-09-08 03:10:00",
+            "GasTurbine": "9720.0",
+            "Coal": "0.0",
+            "Nuclear": "5228.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "172",
+        "fields": {
+            "Date": "2021-09-08 03:15:00",
+            "GasTurbine": "9744.0",
+            "Coal": "0.0",
+            "Nuclear": "5232.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "173",
+        "fields": {
+            "Date": "2021-09-08 03:20:00",
+            "GasTurbine": "9793.0",
+            "Coal": "0.0",
+            "Nuclear": "5231.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "174",
+        "fields": {
+            "Date": "2021-09-08 03:25:00",
+            "GasTurbine": "9878.0",
+            "Coal": "0.0",
+            "Nuclear": "5228.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "175",
+        "fields": {
+            "Date": "2021-09-08 03:30:00",
+            "GasTurbine": "9848.0",
+            "Coal": "12.0",
+            "Nuclear": "5229.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "176",
+        "fields": {
+            "Date": "2021-09-08 03:35:00",
+            "GasTurbine": "9842.0",
+            "Coal": "52.0",
+            "Nuclear": "5232.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "177",
+        "fields": {
+            "Date": "2021-09-08 03:40:00",
+            "GasTurbine": "9805.0",
+            "Coal": "101.0",
+            "Nuclear": "5231.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "178",
+        "fields": {
+            "Date": "2021-09-08 03:45:00",
+            "GasTurbine": "9780.0",
+            "Coal": "152.0",
+            "Nuclear": "5230.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "179",
+        "fields": {
+            "Date": "2021-09-08 03:50:00",
+            "GasTurbine": "9713.0",
+            "Coal": "202.0",
+            "Nuclear": "5231.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "180",
+        "fields": {
+            "Date": "2021-09-08 03:55:00",
+            "GasTurbine": "9714.0",
+            "Coal": "245.0",
+            "Nuclear": "5230.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "181",
+        "fields": {
+            "Date": "2021-09-08 04:00:00",
+            "GasTurbine": "9704.0",
+            "Coal": "287.0",
+            "Nuclear": "5226.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "182",
+        "fields": {
+            "Date": "2021-09-08 04:05:00",
+            "GasTurbine": "9964.0",
+            "Coal": "338.0",
+            "Nuclear": "5231.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "183",
+        "fields": {
+            "Date": "2021-09-08 04:10:00",
+            "GasTurbine": "9959.0",
+            "Coal": "389.0",
+            "Nuclear": "5231.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "184",
+        "fields": {
+            "Date": "2021-09-08 04:15:00",
+            "GasTurbine": "9967.0",
+            "Coal": "439.0",
+            "Nuclear": "5228.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "185",
+        "fields": {
+            "Date": "2021-09-08 04:20:00",
+            "GasTurbine": "9997.0",
+            "Coal": "458.0",
+            "Nuclear": "5231.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "186",
+        "fields": {
+            "Date": "2021-09-08 04:25:00",
+            "GasTurbine": "9886.0",
+            "Coal": "463.0",
+            "Nuclear": "5232.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "187",
+        "fields": {
+            "Date": "2021-09-08 04:30:00",
+            "GasTurbine": "9963.0",
+            "Coal": "467.0",
+            "Nuclear": "5233.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "188",
+        "fields": {
+            "Date": "2021-09-08 04:35:00",
+            "GasTurbine": "9870.0",
+            "Coal": "462.0",
+            "Nuclear": "5224.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "189",
+        "fields": {
+            "Date": "2021-09-08 04:40:00",
+            "GasTurbine": "9899.0",
+            "Coal": "480.0",
+            "Nuclear": "5225.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "190",
+        "fields": {
+            "Date": "2021-09-08 04:45:00",
+            "GasTurbine": "9989.0",
+            "Coal": "542.0",
+            "Nuclear": "5232.0",
+            "Hydro": "212.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "191",
+        "fields": {
+            "Date": "2021-09-08 04:50:00",
+            "GasTurbine": "10190.0",
+            "Coal": "594.0",
+            "Nuclear": "5232.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "192",
+        "fields": {
+            "Date": "2021-09-08 04:55:00",
+            "GasTurbine": "10429.0",
+            "Coal": "626.0",
+            "Nuclear": "5225.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "193",
+        "fields": {
+            "Date": "2021-09-08 05:00:00",
+            "GasTurbine": "10516.0",
+            "Coal": "680.0",
+            "Nuclear": "5223.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "194",
+        "fields": {
+            "Date": "2021-09-08 05:05:00",
+            "GasTurbine": "10736.0",
+            "Coal": "761.0",
+            "Nuclear": "5230.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "195",
+        "fields": {
+            "Date": "2021-09-08 05:10:00",
+            "GasTurbine": "11055.0",
+            "Coal": "786.0",
+            "Nuclear": "5228.0",
+            "Hydro": "230.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "196",
+        "fields": {
+            "Date": "2021-09-08 05:15:00",
+            "GasTurbine": "11279.0",
+            "Coal": "775.0",
+            "Nuclear": "5222.0",
+            "Hydro": "226.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "197",
+        "fields": {
+            "Date": "2021-09-08 05:20:00",
+            "GasTurbine": "11659.0",
+            "Coal": "760.0",
+            "Nuclear": "5222.0",
+            "Hydro": "131.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "198",
+        "fields": {
+            "Date": "2021-09-08 05:25:00",
+            "GasTurbine": "12063.0",
+            "Coal": "793.0",
+            "Nuclear": "5228.0",
+            "Hydro": "104.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "199",
+        "fields": {
+            "Date": "2021-09-08 05:30:00",
+            "GasTurbine": "12401.0",
+            "Coal": "802.0",
+            "Nuclear": "5225.0",
+            "Hydro": "98.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "200",
+        "fields": {
+            "Date": "2021-09-08 05:35:00",
+            "GasTurbine": "12817.0",
+            "Coal": "807.0",
+            "Nuclear": "5230.0",
+            "Hydro": "98.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "201",
+        "fields": {
+            "Date": "2021-09-08 05:40:00",
+            "GasTurbine": "13250.0",
+            "Coal": "846.0",
+            "Nuclear": "5228.0",
+            "Hydro": "98.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "202",
+        "fields": {
+            "Date": "2021-09-08 05:45:00",
+            "GasTurbine": "13424.0",
+            "Coal": "886.0",
+            "Nuclear": "5221.0",
+            "Hydro": "98.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "203",
+        "fields": {
+            "Date": "2021-09-08 05:50:00",
+            "GasTurbine": "13581.0",
+            "Coal": "913.0",
+            "Nuclear": "5222.0",
+            "Hydro": "98.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "204",
+        "fields": {
+            "Date": "2021-09-08 05:55:00",
+            "GasTurbine": "13923.0",
+            "Coal": "946.0",
+            "Nuclear": "5232.0",
+            "Hydro": "98.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "205",
+        "fields": {
+            "Date": "2021-09-08 06:00:00",
+            "GasTurbine": "14189.0",
+            "Coal": "972.0",
+            "Nuclear": "5227.0",
+            "Hydro": "96.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "206",
+        "fields": {
+            "Date": "2021-09-08 06:05:00",
+            "GasTurbine": "14182.0",
+            "Coal": "908.0",
+            "Nuclear": "5229.0",
+            "Hydro": "106.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "207",
+        "fields": {
+            "Date": "2021-09-08 06:10:00",
+            "GasTurbine": "14499.0",
+            "Coal": "925.0",
+            "Nuclear": "5231.0",
+            "Hydro": "108.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "208",
+        "fields": {
+            "Date": "2021-09-08 06:15:00",
+            "GasTurbine": "14715.0",
+            "Coal": "945.0",
+            "Nuclear": "5227.0",
+            "Hydro": "108.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "209",
+        "fields": {
+            "Date": "2021-09-08 06:20:00",
+            "GasTurbine": "14838.0",
+            "Coal": "976.0",
+            "Nuclear": "5226.0",
+            "Hydro": "108.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "210",
+        "fields": {
+            "Date": "2021-09-08 06:25:00",
+            "GasTurbine": "14952.0",
+            "Coal": "986.0",
+            "Nuclear": "5228.0",
+            "Hydro": "108.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "211",
+        "fields": {
+            "Date": "2021-09-08 06:30:00",
+            "GasTurbine": "14981.0",
+            "Coal": "991.0",
+            "Nuclear": "5230.0",
+            "Hydro": "102.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "212",
+        "fields": {
+            "Date": "2021-09-08 06:35:00",
+            "GasTurbine": "14945.0",
+            "Coal": "995.0",
+            "Nuclear": "5228.0",
+            "Hydro": "106.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "213",
+        "fields": {
+            "Date": "2021-09-08 06:40:00",
+            "GasTurbine": "15079.0",
+            "Coal": "995.0",
+            "Nuclear": "5224.0",
+            "Hydro": "106.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "214",
+        "fields": {
+            "Date": "2021-09-08 06:45:00",
+            "GasTurbine": "15194.0",
+            "Coal": "996.0",
+            "Nuclear": "5225.0",
+            "Hydro": "108.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "215",
+        "fields": {
+            "Date": "2021-09-08 06:50:00",
+            "GasTurbine": "15265.0",
+            "Coal": "997.0",
+            "Nuclear": "5222.0",
+            "Hydro": "106.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "216",
+        "fields": {
+            "Date": "2021-09-08 06:55:00",
+            "GasTurbine": "15259.0",
+            "Coal": "995.0",
+            "Nuclear": "5221.0",
+            "Hydro": "107.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "217",
+        "fields": {
+            "Date": "2021-09-08 07:00:00",
+            "GasTurbine": "15294.0",
+            "Coal": "997.0",
+            "Nuclear": "5224.0",
+            "Hydro": "109.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "218",
+        "fields": {
+            "Date": "2021-09-08 07:05:00",
+            "GasTurbine": "15086.0",
+            "Coal": "994.0",
+            "Nuclear": "5226.0",
+            "Hydro": "120.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "219",
+        "fields": {
+            "Date": "2021-09-08 07:10:00",
+            "GasTurbine": "15152.0",
+            "Coal": "996.0",
+            "Nuclear": "5227.0",
+            "Hydro": "125.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "220",
+        "fields": {
+            "Date": "2021-09-08 07:15:00",
+            "GasTurbine": "15210.0",
+            "Coal": "994.0",
+            "Nuclear": "5227.0",
+            "Hydro": "126.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "221",
+        "fields": {
+            "Date": "2021-09-08 07:20:00",
+            "GasTurbine": "15207.0",
+            "Coal": "996.0",
+            "Nuclear": "5227.0",
+            "Hydro": "126.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "222",
+        "fields": {
+            "Date": "2021-09-08 07:25:00",
+            "GasTurbine": "15200.0",
+            "Coal": "996.0",
+            "Nuclear": "5229.0",
+            "Hydro": "127.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "223",
+        "fields": {
+            "Date": "2021-09-08 07:30:00",
+            "GasTurbine": "15117.0",
+            "Coal": "994.0",
+            "Nuclear": "5230.0",
+            "Hydro": "141.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "224",
+        "fields": {
+            "Date": "2021-09-08 07:35:00",
+            "GasTurbine": "15088.0",
+            "Coal": "996.0",
+            "Nuclear": "5223.0",
+            "Hydro": "141.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "225",
+        "fields": {
+            "Date": "2021-09-08 07:40:00",
+            "GasTurbine": "15083.0",
+            "Coal": "995.0",
+            "Nuclear": "5222.0",
+            "Hydro": "141.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "226",
+        "fields": {
+            "Date": "2021-09-08 07:45:00",
+            "GasTurbine": "15117.0",
+            "Coal": "993.0",
+            "Nuclear": "5230.0",
+            "Hydro": "142.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "227",
+        "fields": {
+            "Date": "2021-09-08 07:50:00",
+            "GasTurbine": "15143.0",
+            "Coal": "994.0",
+            "Nuclear": "5226.0",
+            "Hydro": "142.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "228",
+        "fields": {
+            "Date": "2021-09-08 07:55:00",
+            "GasTurbine": "15045.0",
+            "Coal": "992.0",
+            "Nuclear": "5220.0",
+            "Hydro": "141.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "229",
+        "fields": {
+            "Date": "2021-09-08 08:00:00",
+            "GasTurbine": "15057.0",
+            "Coal": "990.0",
+            "Nuclear": "5221.0",
+            "Hydro": "142.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "230",
+        "fields": {
+            "Date": "2021-09-08 08:05:00",
+            "GasTurbine": "15150.0",
+            "Coal": "992.0",
+            "Nuclear": "5226.0",
+            "Hydro": "142.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "231",
+        "fields": {
+            "Date": "2021-09-08 08:10:00",
+            "GasTurbine": "15130.0",
+            "Coal": "990.0",
+            "Nuclear": "5224.0",
+            "Hydro": "143.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "232",
+        "fields": {
+            "Date": "2021-09-08 08:15:00",
+            "GasTurbine": "15134.0",
+            "Coal": "987.0",
+            "Nuclear": "5221.0",
+            "Hydro": "143.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "233",
+        "fields": {
+            "Date": "2021-09-08 08:20:00",
+            "GasTurbine": "15112.0",
+            "Coal": "993.0",
+            "Nuclear": "5221.0",
+            "Hydro": "142.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "234",
+        "fields": {
+            "Date": "2021-09-08 08:25:00",
+            "GasTurbine": "15097.0",
+            "Coal": "988.0",
+            "Nuclear": "5222.0",
+            "Hydro": "142.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "235",
+        "fields": {
+            "Date": "2021-09-08 08:30:00",
+            "GasTurbine": "15135.0",
+            "Coal": "992.0",
+            "Nuclear": "5222.0",
+            "Hydro": "147.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "236",
+        "fields": {
+            "Date": "2021-09-08 08:35:00",
+            "GasTurbine": "15048.0",
+            "Coal": "991.0",
+            "Nuclear": "5225.0",
+            "Hydro": "154.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "237",
+        "fields": {
+            "Date": "2021-09-08 08:40:00",
+            "GasTurbine": "15036.0",
+            "Coal": "990.0",
+            "Nuclear": "5227.0",
+            "Hydro": "155.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "238",
+        "fields": {
+            "Date": "2021-09-08 08:45:00",
+            "GasTurbine": "15058.0",
+            "Coal": "989.0",
+            "Nuclear": "5222.0",
+            "Hydro": "156.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "239",
+        "fields": {
+            "Date": "2021-09-08 08:50:00",
+            "GasTurbine": "14997.0",
+            "Coal": "990.0",
+            "Nuclear": "5217.0",
+            "Hydro": "155.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "240",
+        "fields": {
+            "Date": "2021-09-08 08:55:00",
+            "GasTurbine": "14941.0",
+            "Coal": "990.0",
+            "Nuclear": "5227.0",
+            "Hydro": "156.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "241",
+        "fields": {
+            "Date": "2021-09-08 09:00:00",
+            "GasTurbine": "14964.0",
+            "Coal": "989.0",
+            "Nuclear": "5231.0",
+            "Hydro": "149.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "242",
+        "fields": {
+            "Date": "2021-09-08 09:05:00",
+            "GasTurbine": "15036.0",
+            "Coal": "991.0",
+            "Nuclear": "5222.0",
+            "Hydro": "137.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "243",
+        "fields": {
+            "Date": "2021-09-08 09:10:00",
+            "GasTurbine": "14975.0",
+            "Coal": "989.0",
+            "Nuclear": "5216.0",
+            "Hydro": "138.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "244",
+        "fields": {
+            "Date": "2021-09-08 09:15:00",
+            "GasTurbine": "14188.0",
+            "Coal": "1040.0",
+            "Nuclear": "4577.0",
+            "Hydro": "231.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "245",
+        "fields": {
+            "Date": "2021-09-08 09:20:00",
+            "GasTurbine": "14845.0",
+            "Coal": "988.0",
+            "Nuclear": "5222.0",
+            "Hydro": "137.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "246",
+        "fields": {
+            "Date": "2021-09-08 09:25:00",
+            "GasTurbine": "15001.0",
+            "Coal": "993.0",
+            "Nuclear": "5217.0",
+            "Hydro": "138.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "247",
+        "fields": {
+            "Date": "2021-09-08 09:30:00",
+            "GasTurbine": "15018.0",
+            "Coal": "992.0",
+            "Nuclear": "5215.0",
+            "Hydro": "133.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "248",
+        "fields": {
+            "Date": "2021-09-08 09:35:00",
+            "GasTurbine": "15018.0",
+            "Coal": "989.0",
+            "Nuclear": "5214.0",
+            "Hydro": "121.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "249",
+        "fields": {
+            "Date": "2021-09-08 09:40:00",
+            "GasTurbine": "14974.0",
+            "Coal": "991.0",
+            "Nuclear": "5216.0",
+            "Hydro": "122.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "250",
+        "fields": {
+            "Date": "2021-09-08 09:45:00",
+            "GasTurbine": "14929.0",
+            "Coal": "995.0",
+            "Nuclear": "5219.0",
+            "Hydro": "121.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "251",
+        "fields": {
+            "Date": "2021-09-08 09:50:00",
+            "GasTurbine": "14982.0",
+            "Coal": "992.0",
+            "Nuclear": "5219.0",
+            "Hydro": "121.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "252",
+        "fields": {
+            "Date": "2021-09-08 09:55:00",
+            "GasTurbine": "14997.0",
+            "Coal": "988.0",
+            "Nuclear": "5218.0",
+            "Hydro": "121.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "253",
+        "fields": {
+            "Date": "2021-09-08 10:00:00",
+            "GasTurbine": "15129.0",
+            "Coal": "987.0",
+            "Nuclear": "5218.0",
+            "Hydro": "110.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "254",
+        "fields": {
+            "Date": "2021-09-08 10:05:00",
+            "GasTurbine": "15153.0",
+            "Coal": "989.0",
+            "Nuclear": "5221.0",
+            "Hydro": "77.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "255",
+        "fields": {
+            "Date": "2021-09-08 10:10:00",
+            "GasTurbine": "15160.0",
+            "Coal": "990.0",
+            "Nuclear": "5218.0",
+            "Hydro": "74.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "256",
+        "fields": {
+            "Date": "2021-09-08 10:15:00",
+            "GasTurbine": "15112.0",
+            "Coal": "988.0",
+            "Nuclear": "5215.0",
+            "Hydro": "74.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "257",
+        "fields": {
+            "Date": "2021-09-08 10:20:00",
+            "GasTurbine": "15092.0",
+            "Coal": "991.0",
+            "Nuclear": "5216.0",
+            "Hydro": "74.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "258",
+        "fields": {
+            "Date": "2021-09-08 10:25:00",
+            "GasTurbine": "15027.0",
+            "Coal": "986.0",
+            "Nuclear": "5220.0",
+            "Hydro": "74.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "259",
+        "fields": {
+            "Date": "2021-09-08 10:30:00",
+            "GasTurbine": "14999.0",
+            "Coal": "989.0",
+            "Nuclear": "5218.0",
+            "Hydro": "81.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "260",
+        "fields": {
+            "Date": "2021-09-08 10:35:00",
+            "GasTurbine": "14931.0",
+            "Coal": "986.0",
+            "Nuclear": "5214.0",
+            "Hydro": "85.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "261",
+        "fields": {
+            "Date": "2021-09-08 10:40:00",
+            "GasTurbine": "14836.0",
+            "Coal": "984.0",
+            "Nuclear": "5218.0",
+            "Hydro": "85.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "262",
+        "fields": {
+            "Date": "2021-09-08 10:45:00",
+            "GasTurbine": "14786.0",
+            "Coal": "985.0",
+            "Nuclear": "5224.0",
+            "Hydro": "85.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "263",
+        "fields": {
+            "Date": "2021-09-08 10:50:00",
+            "GasTurbine": "14758.0",
+            "Coal": "986.0",
+            "Nuclear": "5225.0",
+            "Hydro": "85.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "264",
+        "fields": {
+            "Date": "2021-09-08 10:55:00",
+            "GasTurbine": "14759.0",
+            "Coal": "987.0",
+            "Nuclear": "5218.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "265",
+        "fields": {
+            "Date": "2021-09-08 11:00:00",
+            "GasTurbine": "14784.0",
+            "Coal": "984.0",
+            "Nuclear": "5218.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "266",
+        "fields": {
+            "Date": "2021-09-08 11:05:00",
+            "GasTurbine": "14862.0",
+            "Coal": "981.0",
+            "Nuclear": "5220.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "267",
+        "fields": {
+            "Date": "2021-09-08 11:10:00",
+            "GasTurbine": "14930.0",
+            "Coal": "940.0",
+            "Nuclear": "5220.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "268",
+        "fields": {
+            "Date": "2021-09-08 11:15:00",
+            "GasTurbine": "15022.0",
+            "Coal": "844.0",
+            "Nuclear": "5214.0",
+            "Hydro": "85.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "269",
+        "fields": {
+            "Date": "2021-09-08 11:20:00",
+            "GasTurbine": "14904.0",
+            "Coal": "800.0",
+            "Nuclear": "5210.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "270",
+        "fields": {
+            "Date": "2021-09-08 11:25:00",
+            "GasTurbine": "14760.0",
+            "Coal": "796.0",
+            "Nuclear": "5212.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "271",
+        "fields": {
+            "Date": "2021-09-08 11:30:00",
+            "GasTurbine": "14698.0",
+            "Coal": "799.0",
+            "Nuclear": "5218.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "272",
+        "fields": {
+            "Date": "2021-09-08 11:35:00",
+            "GasTurbine": "14771.0",
+            "Coal": "800.0",
+            "Nuclear": "5221.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "273",
+        "fields": {
+            "Date": "2021-09-08 11:40:00",
+            "GasTurbine": "14795.0",
+            "Coal": "800.0",
+            "Nuclear": "5213.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "274",
+        "fields": {
+            "Date": "2021-09-08 11:45:00",
+            "GasTurbine": "14692.0",
+            "Coal": "794.0",
+            "Nuclear": "5213.0",
+            "Hydro": "85.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "275",
+        "fields": {
+            "Date": "2021-09-08 11:50:00",
+            "GasTurbine": "14792.0",
+            "Coal": "798.0",
+            "Nuclear": "5220.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "276",
+        "fields": {
+            "Date": "2021-09-08 11:55:00",
+            "GasTurbine": "14801.0",
+            "Coal": "797.0",
+            "Nuclear": "5219.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "277",
+        "fields": {
+            "Date": "2021-09-08 12:00:00",
+            "GasTurbine": "14781.0",
+            "Coal": "798.0",
+            "Nuclear": "5209.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "278",
+        "fields": {
+            "Date": "2021-09-08 12:05:00",
+            "GasTurbine": "14742.0",
+            "Coal": "799.0",
+            "Nuclear": "5212.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "279",
+        "fields": {
+            "Date": "2021-09-08 12:10:00",
+            "GasTurbine": "14810.0",
+            "Coal": "786.0",
+            "Nuclear": "5217.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "280",
+        "fields": {
+            "Date": "2021-09-08 12:15:00",
+            "GasTurbine": "14897.0",
+            "Coal": "702.0",
+            "Nuclear": "5210.0",
+            "Hydro": "85.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "281",
+        "fields": {
+            "Date": "2021-09-08 12:20:00",
+            "GasTurbine": "14941.0",
+            "Coal": "667.0",
+            "Nuclear": "5208.0",
+            "Hydro": "85.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "282",
+        "fields": {
+            "Date": "2021-09-08 12:25:00",
+            "GasTurbine": "14812.0",
+            "Coal": "664.0",
+            "Nuclear": "5215.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "283",
+        "fields": {
+            "Date": "2021-09-08 12:30:00",
+            "GasTurbine": "14749.0",
+            "Coal": "667.0",
+            "Nuclear": "5218.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "284",
+        "fields": {
+            "Date": "2021-09-08 12:35:00",
+            "GasTurbine": "14705.0",
+            "Coal": "667.0",
+            "Nuclear": "5218.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "285",
+        "fields": {
+            "Date": "2021-09-08 12:40:00",
+            "GasTurbine": "14727.0",
+            "Coal": "663.0",
+            "Nuclear": "5216.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "286",
+        "fields": {
+            "Date": "2021-09-08 12:45:00",
+            "GasTurbine": "14747.0",
+            "Coal": "683.0",
+            "Nuclear": "5211.0",
+            "Hydro": "84.0"
+        }
+    },
+    {
+        "model": "fuel_elexon.fuel",
+        "id": "287",
+        "fields": {
+            "Date": "2021-09-08 12:50:00",
+            "GasTurbine": "14745.0",
+            "Coal": "727.0",
+            "Nuclear": "5208.0",
+            "Hydro": "84.0"
+        }
+    }
+]

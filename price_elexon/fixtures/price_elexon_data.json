@@ -1,0 +1,677 @@
+[
+    {
+        "model": "price_elexon.Price",
+        "id": "1",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "1.0",
+            "Price": "74.51148"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "2",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "2.0",
+            "Price": "132.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "3",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "3.0",
+            "Price": "130.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "4",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "4.0",
+            "Price": "84.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "5",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "5.0",
+            "Price": "64.1"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "6",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "6.0",
+            "Price": "89.78"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "7",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "7.0",
+            "Price": "90.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "8",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "8.0",
+            "Price": "90.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "9",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "9.0",
+            "Price": "94.24"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "10",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "10.0",
+            "Price": "91.5104"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "11",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "11.0",
+            "Price": "90.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "12",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "12.0",
+            "Price": "90.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "13",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "13.0",
+            "Price": "92.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "14",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "14.0",
+            "Price": "92.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "15",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "15.0",
+            "Price": "85.5"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "16",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "16.0",
+            "Price": "207.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "17",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "17.0",
+            "Price": "189.99"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "18",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "18.0",
+            "Price": "125.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "19",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "19.0",
+            "Price": "189.99"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "20",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "20.0",
+            "Price": "239.99"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "21",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "21.0",
+            "Price": "239.99"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "22",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "22.0",
+            "Price": "274.8"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "23",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "23.0",
+            "Price": "274.8"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "24",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "24.0",
+            "Price": "90.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "25",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "25.0",
+            "Price": "90.25"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "26",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "26.0",
+            "Price": "235.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "27",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "27.0",
+            "Price": "235.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "28",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "28.0",
+            "Price": "90.25"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "29",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "29.0",
+            "Price": "255.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "30",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "30.0",
+            "Price": "272.5"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "31",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "31.0",
+            "Price": "339.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "32",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "32.0",
+            "Price": "287.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "33",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "33.0",
+            "Price": "368.7"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "34",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "34.0",
+            "Price": "379.7"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "35",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "35.0",
+            "Price": "528.7"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "36",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "36.0",
+            "Price": "3403.7"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "37",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "37.0",
+            "Price": "3193.7"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "38",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "38.0",
+            "Price": "2953.7"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "39",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "39.0",
+            "Price": "110.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "40",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "40.0",
+            "Price": "95.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "41",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "41.0",
+            "Price": "95.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "42",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "42.0",
+            "Price": "150.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "43",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "43.0",
+            "Price": "90.25"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "44",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "44.0",
+            "Price": "90.25"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "45",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "45.0",
+            "Price": "159.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "46",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "46.0",
+            "Price": "152.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "47",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "47.0",
+            "Price": "157.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "48",
+        "fields": {
+            "Date": "2021-09-07",
+            "Period": "48.0",
+            "Price": "149.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "49",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "1.0",
+            "Price": "148.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "50",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "2.0",
+            "Price": "148.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "51",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "3.0",
+            "Price": "91.99013000000001"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "52",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "4.0",
+            "Price": "91.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "53",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "5.0",
+            "Price": "148.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "54",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "6.0",
+            "Price": "148.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "55",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "7.0",
+            "Price": "148.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "56",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "8.0",
+            "Price": "148.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "57",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "9.0",
+            "Price": "148.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "58",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "10.0",
+            "Price": "148.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "59",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "11.0",
+            "Price": "157.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "60",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "12.0",
+            "Price": "156.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "61",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "13.0",
+            "Price": "156.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "62",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "14.0",
+            "Price": "190.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "63",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "15.0",
+            "Price": "190.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "64",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "16.0",
+            "Price": "209.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "65",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "17.0",
+            "Price": "199.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "66",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "18.0",
+            "Price": "205.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "67",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "19.0",
+            "Price": "287.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "68",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "20.0",
+            "Price": "287.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "69",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "21.0",
+            "Price": "287.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "70",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "22.0",
+            "Price": "269.99"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "71",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "23.0",
+            "Price": "190.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "72",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "24.0",
+            "Price": "92.5"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "73",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "25.0",
+            "Price": "94.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "74",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "26.0",
+            "Price": "94.0"
+        }
+    },
+    {
+        "model": "price_elexon.Price",
+        "id": "75",
+        "fields": {
+            "Date": "2021-09-08",
+            "Period": "27.0",
+            "Price": "190.0"
+        }
+    }
+]

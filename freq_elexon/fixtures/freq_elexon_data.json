@@ -1,0 +1,2072 @@
+[
+    {
+        "model": "freq_elexon.freq",
+        "id": "1",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:14:30",
+            "frequency": "49.974"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "2",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:14:45",
+            "frequency": "49.961999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "3",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:15:00",
+            "frequency": "49.961000000000006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "4",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:15:15",
+            "frequency": "49.968999999999994"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "5",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:15:30",
+            "frequency": "49.955"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "6",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:15:45",
+            "frequency": "49.968999999999994"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "7",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:16:00",
+            "frequency": "49.965"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "8",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:16:15",
+            "frequency": "49.961999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "9",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:16:30",
+            "frequency": "49.968999999999994"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "10",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:16:45",
+            "frequency": "49.957"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "11",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:17:00",
+            "frequency": "49.971000000000004"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "12",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:17:15",
+            "frequency": "49.979"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "13",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:17:30",
+            "frequency": "49.982"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "14",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:17:45",
+            "frequency": "49.98"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "15",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:18:00",
+            "frequency": "49.961999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "16",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:18:15",
+            "frequency": "49.975"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "17",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:18:30",
+            "frequency": "49.961000000000006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "18",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:18:45",
+            "frequency": "49.968"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "19",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:19:00",
+            "frequency": "49.966"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "20",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:19:15",
+            "frequency": "49.976000000000006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "21",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:19:30",
+            "frequency": "49.956"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "22",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:19:45",
+            "frequency": "49.981"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "23",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:20:00",
+            "frequency": "49.978"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "24",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:20:15",
+            "frequency": "49.958999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "25",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:20:30",
+            "frequency": "49.949"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "26",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:20:45",
+            "frequency": "49.968999999999994"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "27",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:21:00",
+            "frequency": "49.961999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "28",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:21:15",
+            "frequency": "49.953"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "29",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:21:30",
+            "frequency": "49.948"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "30",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:21:45",
+            "frequency": "49.952"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "31",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:22:00",
+            "frequency": "49.941"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "32",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:22:15",
+            "frequency": "49.942"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "33",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:22:30",
+            "frequency": "49.943999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "34",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:22:45",
+            "frequency": "49.948"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "35",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:23:00",
+            "frequency": "49.968"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "36",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:23:15",
+            "frequency": "49.95"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "37",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:23:30",
+            "frequency": "49.967"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "38",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:23:45",
+            "frequency": "49.953"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "39",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:24:00",
+            "frequency": "49.96"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "40",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:24:15",
+            "frequency": "49.953"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "41",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:24:30",
+            "frequency": "49.961999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "42",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:24:45",
+            "frequency": "49.974"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "43",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:25:00",
+            "frequency": "49.975"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "44",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:25:15",
+            "frequency": "49.961999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "45",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:25:30",
+            "frequency": "49.958"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "46",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:25:45",
+            "frequency": "49.967"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "47",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:26:00",
+            "frequency": "49.977"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "48",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:26:15",
+            "frequency": "49.99"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "49",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:26:30",
+            "frequency": "49.985"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "50",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:26:45",
+            "frequency": "49.956"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "51",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:27:00",
+            "frequency": "49.963"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "52",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:27:15",
+            "frequency": "49.99"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "53",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:27:30",
+            "frequency": "49.988"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "54",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:27:45",
+            "frequency": "49.985"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "55",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:28:00",
+            "frequency": "49.976000000000006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "56",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:28:15",
+            "frequency": "49.943999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "57",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:28:30",
+            "frequency": "49.978"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "58",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:28:45",
+            "frequency": "49.975"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "59",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:29:00",
+            "frequency": "49.982"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "60",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:29:15",
+            "frequency": "49.979"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "61",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:29:30",
+            "frequency": "49.965"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "62",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:29:45",
+            "frequency": "49.963"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "63",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:30:00",
+            "frequency": "49.971000000000004"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "64",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:30:15",
+            "frequency": "49.971000000000004"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "65",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:30:30",
+            "frequency": "49.99"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "66",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:30:45",
+            "frequency": "50.031000000000006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "67",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:31:00",
+            "frequency": "50.00899999999999"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "68",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:31:15",
+            "frequency": "50.032"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "69",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:31:30",
+            "frequency": "49.971000000000004"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "70",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:31:45",
+            "frequency": "49.95"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "71",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:32:00",
+            "frequency": "49.955"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "72",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:32:15",
+            "frequency": "49.965"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "73",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:32:30",
+            "frequency": "49.972"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "74",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:32:45",
+            "frequency": "49.977"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "75",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:33:00",
+            "frequency": "49.983999999999995"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "76",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:33:15",
+            "frequency": "50.012"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "77",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:33:30",
+            "frequency": "49.996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "78",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:33:45",
+            "frequency": "50.005"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "79",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:34:00",
+            "frequency": "50.016999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "80",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:34:15",
+            "frequency": "49.998999999999995"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "81",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:34:30",
+            "frequency": "50.008"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "82",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:34:45",
+            "frequency": "50.023"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "83",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:35:00",
+            "frequency": "50.012"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "84",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:35:15",
+            "frequency": "50.013000000000005"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "85",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:35:30",
+            "frequency": "50.028"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "86",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:35:45",
+            "frequency": "50.059"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "87",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:36:00",
+            "frequency": "50.043"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "88",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:36:15",
+            "frequency": "50.027"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "89",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:36:30",
+            "frequency": "50.008"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "90",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:36:45",
+            "frequency": "50.031000000000006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "91",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:37:00",
+            "frequency": "50.042"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "92",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:37:15",
+            "frequency": "50.026"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "93",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:37:30",
+            "frequency": "50.053000000000004"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "94",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:37:45",
+            "frequency": "50.059"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "95",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:38:00",
+            "frequency": "50.056000000000004"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "96",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:38:15",
+            "frequency": "50.06100000000001"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "97",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:38:30",
+            "frequency": "50.059"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "98",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:38:45",
+            "frequency": "50.067"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "99",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:39:00",
+            "frequency": "50.056999999999995"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "100",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:39:15",
+            "frequency": "50.037"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "101",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:39:30",
+            "frequency": "50.034"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "102",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:39:45",
+            "frequency": "50.062"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "103",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:40:00",
+            "frequency": "50.068999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "104",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:40:15",
+            "frequency": "50.062"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "105",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:40:30",
+            "frequency": "50.053999999999995"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "106",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:40:45",
+            "frequency": "50.083"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "107",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:41:00",
+            "frequency": "50.086999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "108",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:41:15",
+            "frequency": "50.077"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "109",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:41:30",
+            "frequency": "50.081"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "110",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:41:45",
+            "frequency": "50.071999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "111",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:42:00",
+            "frequency": "50.09"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "112",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:42:15",
+            "frequency": "50.08"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "113",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:42:30",
+            "frequency": "50.092"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "114",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:42:45",
+            "frequency": "50.097"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "115",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:43:00",
+            "frequency": "50.091"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "116",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:43:15",
+            "frequency": "50.086000000000006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "117",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:43:30",
+            "frequency": "50.092"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "118",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:43:45",
+            "frequency": "50.07"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "119",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:44:00",
+            "frequency": "50.032"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "120",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:44:15",
+            "frequency": "50.033"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "121",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:44:30",
+            "frequency": "50.028"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "122",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:44:45",
+            "frequency": "50.048"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "123",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:45:00",
+            "frequency": "50.012"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "124",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:45:15",
+            "frequency": "50.052"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "125",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:45:30",
+            "frequency": "50.047"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "126",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:45:45",
+            "frequency": "50.056000000000004"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "127",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:46:00",
+            "frequency": "50.053999999999995"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "128",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:46:15",
+            "frequency": "50.053000000000004"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "129",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:46:30",
+            "frequency": "50.028999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "130",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:46:45",
+            "frequency": "50.03"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "131",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:47:00",
+            "frequency": "50.055"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "132",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:47:15",
+            "frequency": "50.027"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "133",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:47:30",
+            "frequency": "49.986999999999995"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "134",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:47:45",
+            "frequency": "50.016000000000005"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "135",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:48:00",
+            "frequency": "50.003"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "136",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:48:15",
+            "frequency": "49.99100000000001"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "137",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:48:30",
+            "frequency": "50.025"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "138",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:48:45",
+            "frequency": "50.038000000000004"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "139",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:49:00",
+            "frequency": "50.025"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "140",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:49:15",
+            "frequency": "50.013000000000005"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "141",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:49:30",
+            "frequency": "50.001000000000005"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "142",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:49:45",
+            "frequency": "50.006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "143",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:50:00",
+            "frequency": "50.035"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "144",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:50:15",
+            "frequency": "50.027"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "145",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:50:30",
+            "frequency": "50.031000000000006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "146",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:50:45",
+            "frequency": "50.031000000000006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "147",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:51:00",
+            "frequency": "50.053999999999995"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "148",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:51:15",
+            "frequency": "50.067"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "149",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:51:30",
+            "frequency": "50.066"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "150",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:51:45",
+            "frequency": "50.05"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "151",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:52:00",
+            "frequency": "50.06"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "152",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:52:15",
+            "frequency": "50.043"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "153",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:52:30",
+            "frequency": "50.052"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "154",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:52:45",
+            "frequency": "50.048"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "155",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:53:00",
+            "frequency": "50.048"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "156",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:53:15",
+            "frequency": "50.04"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "157",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:53:30",
+            "frequency": "50.056000000000004"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "158",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:53:45",
+            "frequency": "50.052"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "159",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:54:00",
+            "frequency": "50.05"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "160",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:54:15",
+            "frequency": "50.053000000000004"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "161",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:54:30",
+            "frequency": "50.086000000000006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "162",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:54:45",
+            "frequency": "50.088"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "163",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:55:00",
+            "frequency": "50.06399999999999"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "164",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:55:15",
+            "frequency": "50.06"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "165",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:55:30",
+            "frequency": "50.068000000000005"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "166",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:55:45",
+            "frequency": "50.068000000000005"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "167",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:56:00",
+            "frequency": "50.068000000000005"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "168",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:56:15",
+            "frequency": "50.073"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "169",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:56:30",
+            "frequency": "50.082"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "170",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:56:45",
+            "frequency": "50.093"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "171",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:57:00",
+            "frequency": "50.068999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "172",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:57:15",
+            "frequency": "50.06399999999999"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "173",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:57:30",
+            "frequency": "50.078"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "174",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:57:45",
+            "frequency": "50.085"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "175",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:58:00",
+            "frequency": "50.065"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "176",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:58:15",
+            "frequency": "50.075"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "177",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:58:30",
+            "frequency": "50.09"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "178",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:58:45",
+            "frequency": "50.06399999999999"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "179",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:59:00",
+            "frequency": "50.083999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "180",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:59:15",
+            "frequency": "50.062"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "181",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:59:30",
+            "frequency": "50.07"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "182",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "11:59:45",
+            "frequency": "50.077"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "183",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:00:00",
+            "frequency": "50.06100000000001"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "184",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:00:15",
+            "frequency": "50.044"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "185",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:00:30",
+            "frequency": "50.032"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "186",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:00:45",
+            "frequency": "50.032"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "187",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:01:00",
+            "frequency": "50.034"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "188",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:01:15",
+            "frequency": "49.993"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "189",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:01:30",
+            "frequency": "49.968"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "190",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:01:45",
+            "frequency": "49.965"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "191",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:02:00",
+            "frequency": "49.942"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "192",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:02:15",
+            "frequency": "49.946000000000005"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "193",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:02:30",
+            "frequency": "49.94"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "194",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:02:45",
+            "frequency": "49.945"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "195",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:03:00",
+            "frequency": "49.931000000000004"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "196",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:03:15",
+            "frequency": "49.922"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "197",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:03:30",
+            "frequency": "49.951"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "198",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:03:45",
+            "frequency": "49.952"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "199",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:04:00",
+            "frequency": "49.945"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "200",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:04:15",
+            "frequency": "49.946999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "201",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:04:30",
+            "frequency": "49.955"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "202",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:04:45",
+            "frequency": "49.958999999999996"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "203",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:05:00",
+            "frequency": "49.946000000000005"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "204",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:05:15",
+            "frequency": "49.953"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "205",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:05:30",
+            "frequency": "49.983999999999995"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "206",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:05:45",
+            "frequency": "50.015"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "207",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:06:00",
+            "frequency": "49.986000000000004"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "208",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:06:15",
+            "frequency": "49.976000000000006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "209",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:06:30",
+            "frequency": "49.976000000000006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "210",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:06:45",
+            "frequency": "49.956"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "211",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:07:00",
+            "frequency": "49.977"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "212",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:07:15",
+            "frequency": "49.976000000000006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "213",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:07:30",
+            "frequency": "50.004"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "214",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:07:45",
+            "frequency": "50.031000000000006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "215",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:08:00",
+            "frequency": "50.038999999999994"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "216",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:08:15",
+            "frequency": "49.997"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "217",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:08:30",
+            "frequency": "49.993"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "218",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:08:45",
+            "frequency": "50.01"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "219",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:09:00",
+            "frequency": "50.005"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "220",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:09:15",
+            "frequency": "49.99100000000001"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "221",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:09:30",
+            "frequency": "50.006"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "222",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:09:45",
+            "frequency": "50.045"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "223",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:10:00",
+            "frequency": "50.06399999999999"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "224",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:10:15",
+            "frequency": "50.03"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "225",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:10:30",
+            "frequency": "50.04600000000001"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "226",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:10:45",
+            "frequency": "50.037"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "227",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:11:00",
+            "frequency": "50.065"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "228",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:11:15",
+            "frequency": "50.041000000000004"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "229",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:11:30",
+            "frequency": "50.06"
+        }
+    },
+    {
+        "model": "freq_elexon.freq",
+        "id": "230",
+        "fields": {
+            "date": "2021-09-07",
+            "time": "12:11:45",
+            "frequency": "50.058"
+        }
+    }
+]

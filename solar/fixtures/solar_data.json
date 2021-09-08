@@ -1,0 +1,218 @@
+[
+    {
+        "model": "solar.solar",
+        "id": "1",
+        "fields": {
+            "EnergyGenerated": "0.0",
+            "Date": "2021-09-07",
+            "Time": "00:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "2",
+        "fields": {
+            "EnergyGenerated": "0.0",
+            "Date": "2021-09-07",
+            "Time": "01:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "3",
+        "fields": {
+            "EnergyGenerated": "0.0",
+            "Date": "2021-09-07",
+            "Time": "02:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "4",
+        "fields": {
+            "EnergyGenerated": "0.0",
+            "Date": "2021-09-07",
+            "Time": "03:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "5",
+        "fields": {
+            "EnergyGenerated": "0.0",
+            "Date": "2021-09-07",
+            "Time": "04:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "6",
+        "fields": {
+            "EnergyGenerated": "0.0",
+            "Date": "2021-09-07",
+            "Time": "05:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "7",
+        "fields": {
+            "EnergyGenerated": "65.5",
+            "Date": "2021-09-07",
+            "Time": "06:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "8",
+        "fields": {
+            "EnergyGenerated": "1170.0",
+            "Date": "2021-09-07",
+            "Time": "07:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "9",
+        "fields": {
+            "EnergyGenerated": "2890.0",
+            "Date": "2021-09-07",
+            "Time": "08:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "10",
+        "fields": {
+            "EnergyGenerated": "4660.0",
+            "Date": "2021-09-07",
+            "Time": "09:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "11",
+        "fields": {
+            "EnergyGenerated": "6240.0",
+            "Date": "2021-09-07",
+            "Time": "10:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "12",
+        "fields": {
+            "EnergyGenerated": "7320.0",
+            "Date": "2021-09-07",
+            "Time": "11:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "13",
+        "fields": {
+            "EnergyGenerated": "7810.0",
+            "Date": "2021-09-07",
+            "Time": "12:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "14",
+        "fields": {
+            "EnergyGenerated": "7660.0",
+            "Date": "2021-09-07",
+            "Time": "13:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "15",
+        "fields": {
+            "EnergyGenerated": "6890.0",
+            "Date": "2021-09-07",
+            "Time": "14:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "16",
+        "fields": {
+            "EnergyGenerated": "5540.0",
+            "Date": "2021-09-07",
+            "Time": "15:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "17",
+        "fields": {
+            "EnergyGenerated": "3930.0",
+            "Date": "2021-09-07",
+            "Time": "16:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "18",
+        "fields": {
+            "EnergyGenerated": "2160.0",
+            "Date": "2021-09-07",
+            "Time": "17:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "19",
+        "fields": {
+            "EnergyGenerated": "584.0",
+            "Date": "2021-09-07",
+            "Time": "18:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "20",
+        "fields": {
+            "EnergyGenerated": "4.13",
+            "Date": "2021-09-07",
+            "Time": "19:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "21",
+        "fields": {
+            "EnergyGenerated": "0.0",
+            "Date": "2021-09-07",
+            "Time": "20:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "22",
+        "fields": {
+            "EnergyGenerated": "0.0",
+            "Date": "2021-09-07",
+            "Time": "21:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "23",
+        "fields": {
+            "EnergyGenerated": "0.0",
+            "Date": "2021-09-07",
+            "Time": "22:00:00"
+        }
+    },
+    {
+        "model": "solar.solar",
+        "id": "24",
+        "fields": {
+            "EnergyGenerated": "0.0",
+            "Date": "2021-09-07",
+            "Time": "23:00:00"
+        }
+    }
+]

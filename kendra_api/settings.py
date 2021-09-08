@@ -33,6 +33,13 @@ ALLOWED_HOSTS = ['*']
 INSTALLED_APPS = [
     'carbon_intensity.apps.CarbonIntensityConfig',
     'demand_elexon.apps.DemandElexonConfig',
+    'freq_elexon.apps.FreqElexonConfig',
+    'fuel_elexon.apps.FuelElexonConfig',
+    'price_elexon.apps.PriceElexonConfig',
+    'solar.apps.SolarConfig',
+    'transmit_elexon.apps.TransmitElexonConfig',
+    'wind_offshore.apps.WindOffshoreConfig',
+    'wind_onshore.apps.WindOnshoreConfig',
     'rest_framework',
     'django.contrib.admin',
     'django.contrib.auth',

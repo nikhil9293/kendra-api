@@ -1,0 +1,482 @@
+[
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "1",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "48.0",
+            "EnergyGenerated": "2768.956"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "2",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "47.0",
+            "EnergyGenerated": "2768.956"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "3",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "46.0",
+            "EnergyGenerated": "2750.073"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "4",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "45.0",
+            "EnergyGenerated": "2750.073"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "5",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "44.0",
+            "EnergyGenerated": "2519.29"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "6",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "43.0",
+            "EnergyGenerated": "2519.29"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "7",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "42.0",
+            "EnergyGenerated": "2241.583"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "8",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "41.0",
+            "EnergyGenerated": "2241.583"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "9",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "40.0",
+            "EnergyGenerated": "1952.63"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "10",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "39.0",
+            "EnergyGenerated": "1952.63"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "11",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "38.0",
+            "EnergyGenerated": "1531.183"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "12",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "37.0",
+            "EnergyGenerated": "1531.183"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "13",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "36.0",
+            "EnergyGenerated": "1179.229"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "14",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "35.0",
+            "EnergyGenerated": "1179.229"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "15",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "34.0",
+            "EnergyGenerated": "869.7130000000003"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "16",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "33.0",
+            "EnergyGenerated": "869.7130000000003"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "17",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "32.0",
+            "EnergyGenerated": "693.546"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "18",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "31.0",
+            "EnergyGenerated": "693.546"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "19",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "30.0",
+            "EnergyGenerated": "577.036"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "20",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "29.0",
+            "EnergyGenerated": "577.036"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "21",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "28.0",
+            "EnergyGenerated": "531.6419999999998"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "22",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "27.0",
+            "EnergyGenerated": "531.6419999999998"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "23",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "26.0",
+            "EnergyGenerated": "520.134"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "24",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "25.0",
+            "EnergyGenerated": "520.134"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "25",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "24.0",
+            "EnergyGenerated": "519.248"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "26",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "23.0",
+            "EnergyGenerated": "519.248"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "27",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "22.0",
+            "EnergyGenerated": "520.591"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "28",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "21.0",
+            "EnergyGenerated": "520.591"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "29",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "20.0",
+            "EnergyGenerated": "500.703"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "30",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "19.0",
+            "EnergyGenerated": "500.703"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "31",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "18.0",
+            "EnergyGenerated": "490.204"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "32",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "17.0",
+            "EnergyGenerated": "490.204"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "33",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "16.0",
+            "EnergyGenerated": "479.942"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "34",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "15.0",
+            "EnergyGenerated": "479.942"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "35",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "14.0",
+            "EnergyGenerated": "512.311"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "36",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "13.0",
+            "EnergyGenerated": "512.311"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "37",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "12.0",
+            "EnergyGenerated": "598.097"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "38",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "11.0",
+            "EnergyGenerated": "598.097"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "39",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "10.0",
+            "EnergyGenerated": "716.377"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "40",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "9.0",
+            "EnergyGenerated": "716.377"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "41",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "8.0",
+            "EnergyGenerated": "853.372"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "42",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "7.0",
+            "EnergyGenerated": "853.372"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "43",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "6.0",
+            "EnergyGenerated": "957.571"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "44",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "5.0",
+            "EnergyGenerated": "957.571"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "45",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "4.0",
+            "EnergyGenerated": "1108.556"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "46",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "3.0",
+            "EnergyGenerated": "1108.556"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "47",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "2.0",
+            "EnergyGenerated": "720.2810000000003"
+        }
+    },
+    {
+        "model": "wind_offshore.wind_off",
+        "id": "48",
+        "fields": {
+            "Windtype": "Wind Offshore",
+            "Date": "2021-09-07",
+            "Period": "1.0",
+            "EnergyGenerated": "720.2810000000003"
+        }
+    }
+]

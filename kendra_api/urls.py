@@ -31,11 +31,20 @@ Including another URLconf
 #     path('apiv2/', include(demand_urls))
 # ]
 
+# from kendra_api.carbon_intensity import urls
+# from kendra_api import freq_elexon
 from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
-    path('carbon_intensity/', include('carbon_intensity.urls')),
-    path('demand_elexon/', include('demand_elexon.urls')),
+    path('api/', include('carbon_intensity.urls')),
+    path('api/', include('demand_elexon.urls')),
+    path('api/', include('freq_elexon.urls')),
+    path('api/', include('fuel_elexon.urls')),
+    path('api/', include('price_elexon.urls')),
+    path('api/', include('solar.urls')),
+    path('api/', include('transmit_elexon.urls')),
+    path('api/', include('wind_offshore.urls')),
+    path('api/', include('wind_onshore.urls')),
     path('admin/', admin.site.urls)
 ]
